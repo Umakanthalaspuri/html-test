@@ -1,0 +1,2 @@
+Just adding a text file 
+To check branchs and merging from git bash
